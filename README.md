@@ -1,0 +1,2 @@
+# letterCounter
+counts letters
